@@ -24,4 +24,5 @@ The architecture was tested against a standard Health & Safety Manual.
 1. **Factual Retrieval:** Successfully retrieved and formatted strict policy details.
 2. **Adversarial Testing:** When asked general trivia outside the document's scope (e.g., "What is the capital of France?"), the AI successfully triggered the guardrail and refused to answer. 
 
-*(Insert a screenshot of your successful chat test here!)*
+<img width="378" height="418" alt="ChatBox repsonse " src="https://github.com/user-attachments/assets/87405fc4-b535-4c48-81b0-58368b6d208f" />
+
