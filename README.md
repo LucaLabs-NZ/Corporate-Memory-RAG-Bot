@@ -12,7 +12,8 @@ As businesses integrate LLMs, eliminating "hallucinations" (confident but incorr
 * **Vectorization:** Google Generative AI Embeddings (Semantic Similarity)
 * **Database:** In-Memory Vector Store (Top-K = 4)
 
-*(Insert a screenshot of your Flowise canvas here!)*
+<img width="557" height="543" alt="Corporate-Memory-RAG-Bot" src="https://github.com/user-attachments/assets/d22e27a1-84e6-4787-9b45-4fcdc546f4cb" />
+
 
 ### 🔒 Prompt Engineering Guardrails
 To prevent the model from using general internet knowledge, the following strict System Prompt was applied:
